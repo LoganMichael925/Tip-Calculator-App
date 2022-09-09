@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CS401Assignment6</string>
+    <string name="tip_hint">Enter a percentage (e.g for 15% type 15)</string>
+    <string name="amount_meal">Enter the cost of the meal</string>
+</resources>
